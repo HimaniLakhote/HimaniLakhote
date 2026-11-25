@@ -27,24 +27,22 @@
 
 ## 💻 Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,mysql,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HimaniLakhote&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaniLakhote&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-## 🔥 GitHub Streak
+
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  ✨ Learning, Building and Growing Every Day! ✨
 </p>
-
----
 
 <p align="center">
   ✨ <b>Learning, Building and Growing Every Day!</b> ✨
