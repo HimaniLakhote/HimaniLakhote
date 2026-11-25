@@ -44,6 +44,3 @@
   ✨ Learning, Building and Growing Every Day! ✨
 </p>
 
-<p align="center">
-  ✨ <b>Learning, Building and Growing Every Day!</b> ✨
-</p>
